@@ -10,3 +10,5 @@ Process Workflow ->
 
 Utilising Twilio <Pay>
   https://www.twilio.com/pay
+  The legends here: https://github.com/TwilioDevEd/api-snippets/blob/master/twiml/voice/gather/gather-2/gather-2.5.x.php
+  Founded the Twilio integration code used in this project.
